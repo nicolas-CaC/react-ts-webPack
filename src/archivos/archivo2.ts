@@ -1,0 +1,1 @@
+export const variable2 = 100;
